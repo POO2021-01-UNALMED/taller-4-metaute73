@@ -8,7 +8,7 @@ public class Asignatura {
     int codigoExterno;
 
     Asignatura() {
-    	this("sin nombre", 0, 0);
+    	this("Sin nombre", 0, 0);
      
     }
 
